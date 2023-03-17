@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: Assigns a random number to n and prints whether it's positive or negative
+ *
  *
  * Return: Always 0 (Success)
  */
