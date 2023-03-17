@@ -13,6 +13,7 @@ int main(void)
 	while (i < 10)
 	{
 		char c = i + '0';
+
 		write(1, &c, 1);
 		i++;
 	}
